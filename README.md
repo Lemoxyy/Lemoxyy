@@ -11,11 +11,7 @@
 
 - 🌱 I’m currently learning **c++**
 
-- 🤝 I’m looking for help with **J**
-
 - 💬 Ask me about **Anything**
-
-- 📫 How to reach me **fclan3809@gmail.com**
 
 - ⚡ Fun fact **I am alive**
 
